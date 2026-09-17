@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研项目验收"
+  short_description: "核对科研项目报告、人员成果清单与财务佐证，生成可定位的问题和修改记录"
+  default_prompt: "使用 $research-project-acceptance，依据我提供的适用制度、任务书和变更材料审核指定目录，先只返回问题。"
